@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookStoreModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BookStoreEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AUTHOR" EntityType="BookStoreModel.AUTHOR" />
+    <EntitySet Name="BOOKS" EntityType="BookStoreModel.BOOKS" />
+    <EntitySet Name="PUBLISHER" EntityType="BookStoreModel.PUBLISHER" />
+    <EntitySet Name="ShoppingBasket" EntityType="BookStoreModel.ShoppingBasket" />
+    <EntitySet Name="sysdiagrams" EntityType="BookStoreModel.sysdiagrams" />
+    <EntitySet Name="USER" EntityType="BookStoreModel.USER" />
+    <AssociationSet Name="FK_BOOKS_AUTHOR" Association="BookStoreModel.FK_BOOKS_AUTHOR">
+      <End Role="AUTHOR" EntitySet="AUTHOR" />
+      <End Role="BOOKS" EntitySet="BOOKS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BOOKS_PUBLISHER" Association="BookStoreModel.FK_BOOKS_PUBLISHER">
+      <End Role="PUBLISHER" EntitySet="PUBLISHER" />
+      <End Role="BOOKS" EntitySet="BOOKS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ShoppingBasket_BOOKS" Association="BookStoreModel.FK_ShoppingBasket_BOOKS">
+      <End Role="BOOKS" EntitySet="BOOKS" />
+      <End Role="ShoppingBasket" EntitySet="ShoppingBasket" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="AUTHOR">
+    <Key>
+      <PropertyRef Name="aID" />
+    </Key>
+    <Property Name="aID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="aname" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="asurname" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="BOOKS" Relationship="BookStoreModel.FK_BOOKS_AUTHOR" FromRole="AUTHOR" ToRole="BOOKS" />
+  </EntityType>
+  <EntityType Name="BOOKS">
+    <Key>
+      <PropertyRef Name="ISBN" />
+    </Key>
+    <Property Name="ISBN" Type="Byte" Nullable="false" />
+    <Property Name="price" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="title" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="year" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="aID" Type="Byte" Nullable="false" />
+    <Property Name="pID" Type="Byte" Nullable="false" />
+    <NavigationProperty Name="AUTHOR" Relationship="BookStoreModel.FK_BOOKS_AUTHOR" FromRole="BOOKS" ToRole="AUTHOR" />
+    <NavigationProperty Name="PUBLISHER" Relationship="BookStoreModel.FK_BOOKS_PUBLISHER" FromRole="BOOKS" ToRole="PUBLISHER" />
+    <NavigationProperty Name="ShoppingBasket" Relationship="BookStoreModel.FK_ShoppingBasket_BOOKS" FromRole="BOOKS" ToRole="ShoppingBasket" />
+  </EntityType>
+  <EntityType Name="PUBLISHER">
+    <Key>
+      <PropertyRef Name="pID" />
+    </Key>
+    <Property Name="pID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="pname" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="phonenumber" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="paddress" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="BOOKS" Relationship="BookStoreModel.FK_BOOKS_PUBLISHER" FromRole="PUBLISHER" ToRole="BOOKS" />
+  </EntityType>
+  <EntityType Name="ShoppingBasket">
+    <Key>
+      <PropertyRef Name="basketID" />
+    </Key>
+    <Property Name="basketID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="booksID" Type="Byte" Nullable="false" />
+    <NavigationProperty Name="BOOKS" Relationship="BookStoreModel.FK_ShoppingBasket_BOOKS" FromRole="ShoppingBasket" ToRole="BOOKS" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="USER">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Byte" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="address" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="phone" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_BOOKS_AUTHOR">
+    <End Type="BookStoreModel.AUTHOR" Role="AUTHOR" Multiplicity="1" />
+    <End Type="BookStoreModel.BOOKS" Role="BOOKS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AUTHOR">
+        <PropertyRef Name="aID" />
+      </Principal>
+      <Dependent Role="BOOKS">
+        <PropertyRef Name="aID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BOOKS_PUBLISHER">
+    <End Type="BookStoreModel.PUBLISHER" Role="PUBLISHER" Multiplicity="1" />
+    <End Type="BookStoreModel.BOOKS" Role="BOOKS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PUBLISHER">
+        <PropertyRef Name="pID" />
+      </Principal>
+      <Dependent Role="BOOKS">
+        <PropertyRef Name="pID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ShoppingBasket_BOOKS">
+    <End Type="BookStoreModel.BOOKS" Role="BOOKS" Multiplicity="1" />
+    <End Type="BookStoreModel.ShoppingBasket" Role="ShoppingBasket" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BOOKS">
+        <PropertyRef Name="ISBN" />
+      </Principal>
+      <Dependent Role="ShoppingBasket">
+        <PropertyRef Name="booksID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

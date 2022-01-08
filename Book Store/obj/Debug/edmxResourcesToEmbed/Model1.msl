@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BookStoreModelStoreContainer" CdmEntityContainer="BookStoreEntities">
+    <EntitySetMapping Name="AUTHOR">
+      <EntityTypeMapping TypeName="BookStoreModel.AUTHOR">
+        <MappingFragment StoreEntitySet="AUTHOR">
+          <ScalarProperty Name="asurname" ColumnName="asurname" />
+          <ScalarProperty Name="aname" ColumnName="aname" />
+          <ScalarProperty Name="aID" ColumnName="aID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BOOKS">
+      <EntityTypeMapping TypeName="BookStoreModel.BOOKS">
+        <MappingFragment StoreEntitySet="BOOKS">
+          <ScalarProperty Name="pID" ColumnName="pID" />
+          <ScalarProperty Name="aID" ColumnName="aID" />
+          <ScalarProperty Name="year" ColumnName="year" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="ISBN" ColumnName="ISBN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PUBLISHER">
+      <EntityTypeMapping TypeName="BookStoreModel.PUBLISHER">
+        <MappingFragment StoreEntitySet="PUBLISHER">
+          <ScalarProperty Name="paddress" ColumnName="paddress" />
+          <ScalarProperty Name="phonenumber" ColumnName="phonenumber" />
+          <ScalarProperty Name="pname" ColumnName="pname" />
+          <ScalarProperty Name="pID" ColumnName="pID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ShoppingBasket">
+      <EntityTypeMapping TypeName="BookStoreModel.ShoppingBasket">
+        <MappingFragment StoreEntitySet="ShoppingBasket">
+          <ScalarProperty Name="booksID" ColumnName="booksID" />
+          <ScalarProperty Name="basketID" ColumnName="basketID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="BookStoreModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USER">
+      <EntityTypeMapping TypeName="BookStoreModel.USER">
+        <MappingFragment StoreEntitySet="USER">
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="surname" ColumnName="surname" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

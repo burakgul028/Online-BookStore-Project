@@ -1,0 +1,177 @@
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\Book Store.dll.config
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\Book Store.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\Book Store.pdb
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\csc.exe
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\csc.exe.config
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\csc.rsp
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\csi.exe
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\csi.exe.config
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\csi.rsp
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.AppContext.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Console.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.IO.Compression.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.IO.Pipes.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Security.Claims.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.ValueTuple.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\vbc.exe
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\vbc.exe.config
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\vbc.rsp
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berfi\source\repos\Book Store\Book Store\obj\Debug\Book Store.csprojAssemblyReference.cache
+C:\Users\berfi\source\repos\Book Store\Book Store\obj\Debug\Book Store.csproj.CopyComplete
+C:\Users\berfi\source\repos\Book Store\Book Store\obj\Debug\Book Store.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\obj\Debug\Book Store.pdb
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\EntityFramework.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\EntityFramework.SqlServer.dll
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\EntityFramework.xml
+C:\Users\berfi\source\repos\Book Store\Book Store\bin\EntityFramework.SqlServer.xml
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\Book Store.dll.config
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\Book Store.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\Book Store.pdb
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\csc.exe
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\csc.exe.config
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\csc.rsp
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\csi.exe
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\csi.exe.config
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\csi.rsp
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.AppContext.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Console.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.IO.Compression.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.IO.Pipes.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Security.Claims.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.ValueTuple.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Xml.XPath.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\vbc.exe
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\vbc.exe.config
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\vbc.rsp
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\EntityFramework.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\EntityFramework.SqlServer.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\EntityFramework.xml
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\EntityFramework.SqlServer.xml
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\obj\Debug\Book Store.csprojAssemblyReference.cache
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\obj\Debug\Book Store.csproj.CopyComplete
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\obj\Debug\Book Store.dll
+C:\Users\berfi\Desktop\3. sınıf 2. dönem\Sofware Engineering\Vize_Proje\Yeni klasör\Book Store\obj\Debug\Book Store.pdb
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\Book Store.dll.config
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\Book Store.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\Book Store.pdb
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\csc.exe
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\csc.exe.config
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\csc.rsp
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\csi.exe
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\csi.exe.config
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\csi.rsp
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.AppContext.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Console.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.IO.Compression.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.IO.Pipes.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Security.Claims.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.ValueTuple.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Xml.XPath.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\vbc.exe
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\vbc.exe.config
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\vbc.rsp
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\VBCSCompiler.exe
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\EntityFramework.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\EntityFramework.SqlServer.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\EntityFramework.xml
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\EntityFramework.SqlServer.xml
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\obj\Debug\Book Store.csprojResolveAssemblyReference.cache
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\obj\Debug\Book Store.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\obj\Debug\Book Store.dll
+C:\Users\burak\Desktop\yedek masaüstü\works\BookStore_ProjectFile\Book Store\obj\Debug\Book Store.pdb
